@@ -34,7 +34,7 @@ export default defineUserConfig({
   bundler: viteBundler(),
 
   theme: gungnirTheme({
-    repo: "cosmoscatts/blog.cosmoscatts.io",
+    repo: "uvacoder/blog-cosmo-vuepress",
     docsDir: "blog",
     docsBranch: "master",
 
@@ -159,7 +159,7 @@ export default defineUserConfig({
     ],
 
     footer: `
-      &copy; <a href="https://github.com/cosmoscatts" target="_blank">Cosmoscatts</a> 2018-2022
+      &copy; <a href="https://github.com/uvacoder" target="_blank">uvacoder</a> 2018-2022
       <br>
       Powered by <a href="https://v2.vuepress.vuejs.org" target="_blank">VuePress</a> &
       <a href="https://github.com/Renovamen/vuepress-theme-gungnir" target="_blank">Gungnir</a>
